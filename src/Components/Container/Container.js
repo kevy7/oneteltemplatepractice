@@ -8,7 +8,7 @@ import Navbar from './Navbar/Navbar';
 const Container = (props) => {
     return (
         <div className={styles.container}>
-            
+            <Navbar />
             
         </div>
     )
