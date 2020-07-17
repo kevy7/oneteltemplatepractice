@@ -4,6 +4,8 @@
     height: 75px;
     display: flex;
     justify-content: flex-end;
+    position: relative; /* used to shift element to the bottom of the blackbar */
+    top: 20px;
 }
 
 /* To align the icon to the left of the navbar while everything else is to the right, set right-margin to auto for the icon element */
@@ -11,6 +13,7 @@
     list-style-type: none;
     display: inline;
     margin: 0;
+    margin-right: 25px;
     padding: 0;
 }
 
