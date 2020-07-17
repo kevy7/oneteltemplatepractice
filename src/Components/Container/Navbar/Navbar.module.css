@@ -3,3 +3,7 @@
     width: 58%;
     height: 75px;
 }
+
+.menuList {
+    list-style: none;
+}
