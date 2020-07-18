@@ -1,6 +1,7 @@
 import React from 'react';
 import Container from './Components/Container/Container';
 import TopComponent from './Components/Container/TopComponent/TopComponent';
+import MiddleComponent from './Components/MiddleComponent/MiddleComponent';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       {/* Navbar within a container */}
       <Container />
       <TopComponent />
+      <MiddleComponent />
     </div>
   );
 }
