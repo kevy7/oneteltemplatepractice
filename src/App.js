@@ -1,5 +1,6 @@
 import React from 'react';
 import Container from './Components/Container/Container';
+import TopComponent from './Components/Container/TopComponent/TopComponent';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       {/* Components will be imported below */}
       {/* Navbar within a container */}
       <Container />
+
     </div>
   );
 }
