@@ -8,7 +8,7 @@ function App() {
       {/* Components will be imported below */}
       {/* Navbar within a container */}
       <Container />
-
+      <TopComponent />
     </div>
   );
 }
