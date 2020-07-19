@@ -1,10 +1,12 @@
 import React from 'react';
+import styles from './mCompContainer.module.css';
 
-const mCompContainer = () => {
+const MCompContainer = () => {
     return (
-        <div>
+        <div className={styles.mCompContainer}>
+            
         </div>
     )
 }
 
-export default mCompContainer;
+export default MCompContainer;
