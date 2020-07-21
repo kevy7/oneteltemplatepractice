@@ -1,7 +1,10 @@
 .blockElement {
-    width: 350px;
-    height: 350px;
+    width: 280px;
+    height: 280px;
     background: blue;
     margin-left: 20px;
     margin-right: 20px;
+    min-width: 280px;
+    position: relative;
+    bottom: 45px;
 }
