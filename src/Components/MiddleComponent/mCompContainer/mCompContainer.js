@@ -5,7 +5,9 @@ import BlockElement from './BlockElement/BlockElement';
 const MCompContainer = () => {
     return (
         <div className={styles.mCompContainer}>
-            
+            <BlockElement />
+            <BlockElement />
+            <BlockElement />
         </div>
     )
 }
