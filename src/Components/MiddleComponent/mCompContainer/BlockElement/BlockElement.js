@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const BlockElement = () => {
     return (
         <div className={styles.blockElement}>
-
+            
         </div>
     );
 }
