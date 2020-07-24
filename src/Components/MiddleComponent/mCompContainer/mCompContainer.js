@@ -11,6 +11,8 @@ const MCompContainer = () => {
     //const element = <FontAwesomeIcon icon={faCoffee} />
 
     const AddressBook = <FontAwesomeIcon icon={faAddressBook} size="3x" />
+    const BookMark = <FontAwesomeIcon icon={faBookmark} size="3x" />
+    const PlayCircle = <FontAwesomeIcon icon={faPlayCircle} size="3x" />
 
     return (
         <div className={styles.mCompContainer}>
@@ -21,10 +23,12 @@ const MCompContainer = () => {
                     paragraph="This is a random explanation."
                 />
                 <BlockElement 
+                    icon={BookMark}
                     title="Title Two"
                     paragraph="This is a random explanation."
                 />
                 <BlockElement 
+                    icon={PlayCircle}
                     title="Title Three"
                     paragraph="This is a random explanation."
                 />
