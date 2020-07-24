@@ -6,7 +6,9 @@ const MCompContainer = () => {
     return (
         <div className={styles.mCompContainer}>
             <div className={styles.container}>
-                <BlockElement />
+                <BlockElement 
+                
+                />
                 <BlockElement />
                 <BlockElement />
             </div>
