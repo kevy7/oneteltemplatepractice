@@ -13,6 +13,15 @@ const MCompContainer = () => {
     const AddressBook = <FontAwesomeIcon icon={faAddressBook} size="3x" />
     const BookMark = <FontAwesomeIcon icon={faBookmark} size="3x" />
     const PlayCircle = <FontAwesomeIcon icon={faPlayCircle} size="3x" />
+    const AddressBookStyle = {
+        background: 'orange'
+    }
+    const BookMarkStyle = {
+        background: 'green'
+    }
+    const PlayCircle = {
+        background: 'yellow'
+    }
 
     return (
         <div className={styles.mCompContainer}>
