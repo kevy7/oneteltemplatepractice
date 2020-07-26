@@ -20,7 +20,7 @@ const MCompContainer = () => {
         background: 'green'
     }
     const PlayCircleStyle = {
-        background: 'yellow'
+        background: 'purple'
     }
 
     return (
@@ -30,17 +30,19 @@ const MCompContainer = () => {
                     icon={AddressBook}
                     title="Title One"
                     paragraph="This is a random explanation."
-                    syle={AddressBookStyle}
+                    style={AddressBookStyle}
                 />
                 <BlockElement 
                     icon={BookMark}
                     title="Title Two"
                     paragraph="This is a random explanation."
+                    style={BookMarkStyle}
                 />
                 <BlockElement 
                     icon={PlayCircle}
                     title="Title Three"
                     paragraph="This is a random explanation."
+                    style={PlayCircleStyle}
                 />
             </div>
         </div>
