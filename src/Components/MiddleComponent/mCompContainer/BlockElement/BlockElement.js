@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const BlockElement = (props) => {
     
     return (
-        <div className={styles.blockElement}>
+        <div className={styles.blockElement} style={props.style}>
             {props.icon}
             <h1>{props.title}</h1>
             <p>{props.paragraph}</p>
@@ -15,7 +15,8 @@ const BlockElement = (props) => {
 
 BlockElement.propTypes = {
     title: PropTypes.string,
-    summary: PropTypes.string
+    summary: PropTypes.string,
+    style: PropTypes.string
     //is there a prop type for jsx elements?
 }
 

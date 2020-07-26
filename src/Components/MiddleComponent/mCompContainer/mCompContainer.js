@@ -30,6 +30,7 @@ const MCompContainer = () => {
                     icon={AddressBook}
                     title="Title One"
                     paragraph="This is a random explanation."
+                    syle={AddressBookStyle}
                 />
                 <BlockElement 
                     icon={BookMark}
