@@ -19,7 +19,7 @@ const MCompContainer = () => {
     const BookMarkStyle = {
         background: 'green'
     }
-    const PlayCircle = {
+    const PlayCircleStyle = {
         background: 'yellow'
     }
 
