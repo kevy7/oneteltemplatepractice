@@ -6,6 +6,7 @@ const MiddleComponent = () => {
     return (
         <div className={styles.middleComponent}>
             <MCompContainer />
+            {/* add Body container here */}
         </div>
     )
 }
