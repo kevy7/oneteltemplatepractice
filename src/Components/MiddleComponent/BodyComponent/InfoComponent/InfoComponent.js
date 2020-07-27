@@ -1,10 +1,10 @@
 import React from 'react';
-import styles from './infoComponent.module.css';
+import styles from './InfoComponent.module.css';
 
 const infoComponent = () => {
     return (
         <div>
-            
+
         </div>
     )
 }
