@@ -3,8 +3,8 @@ import styles from './InfoComponent.module.css';
 
 const infoComponent = () => {
     return (
-        <div>
-
+        <div className={styles.infoComponent}>
+            
         </div>
     )
 }
