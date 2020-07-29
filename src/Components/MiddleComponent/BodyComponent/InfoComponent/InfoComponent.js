@@ -6,7 +6,7 @@ const infoComponent = () => {
         <div className={styles.infoComponent}>
             <div className={styles.imgBackground}></div>
             <div className={styles.infoDescription}>
-                <h1>Title Here</h1>
+                <h1 className={styles.title}>Title Here</h1>
                 <p>This is a random paragraph.</p>
             </div>
         </div>

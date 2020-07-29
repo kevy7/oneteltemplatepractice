@@ -4,7 +4,7 @@
     background: blue;
     margin-left: 15%;
     margin-right: 15%;
-    
+    display: flex;
 }
 
 .imgBackground {
@@ -14,7 +14,15 @@
 }
 
 .infoDescription {
-    width: 50%;
+    /* width: 50%; */
     height: 100%;
     color: white;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.title {
+    margin-top: 30px;
+    margin-bottom: 0px;
 }
