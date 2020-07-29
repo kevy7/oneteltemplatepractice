@@ -4,11 +4,11 @@ import styles from './InfoComponent.module.css';
 const infoComponent = () => {
     return (
         <div className={styles.infoComponent}>
-            <div>
+            <div className={styles.imgBackground}>
 
             </div>
-            <div>
-                
+            <div className={styles.infoDescription}>
+
             </div>
         </div>
     )
