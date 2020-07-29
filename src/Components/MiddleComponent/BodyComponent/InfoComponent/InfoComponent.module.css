@@ -4,6 +4,7 @@
     background: blue;
     margin-left: 15%;
     margin-right: 15%;
+    
 }
 
 .imgBackground {
@@ -13,5 +14,7 @@
 }
 
 .infoDescription {
-    
+    width: 50%;
+    height: 100%;
+    color: white;
 }
