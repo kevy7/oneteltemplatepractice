@@ -5,6 +5,7 @@
     margin-left: 15%;
     margin-right: 15%;
     display: flex;
+    /* justify-content: space-evenly; */
 }
 
 .imgBackground {
@@ -21,6 +22,7 @@
     flex-direction: column;
     padding-left: 20px;
     padding-right: 10px;
+    justify-content: space-evenly;
 }
 
 .title {
@@ -31,7 +33,7 @@
 .infoButton {
     width: 120px;
     height: 40px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     font-size: 15px;
     border: 2px white solid;
     background-color: black;

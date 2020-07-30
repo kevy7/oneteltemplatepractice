@@ -6,6 +6,8 @@ const infoComponent = () => {
         <div className={styles.infoComponent}>
             <div className={styles.imgBackground}></div>
             <div className={styles.infoDescription}>
+                {/* <h1 className={styles.title}>Title Here</h1> */}
+                <div>
                 <h1 className={styles.title}>Title Here</h1>
                 <p className={styles.infoParagraph}>This is a random paragraph. sdngkjsdn d fdsnfklds fnds lfndsf lsd flsdknf dslknf ldsn flds fds fn lkn fsdlnf sdkn f</p>
                 <p className={styles.infoParagraph}>
@@ -13,6 +15,7 @@ const infoComponent = () => {
                     sdnfjlnfldf  fldks fds flkdn flnds fldkn flns flnd fskldn fnflknmdsklf eij rw dsbfuhewi jw guhbw eofhowhf oshf sf jf
                     sfhu eoh owihg orhfgoh wfh j kj giewj uwhfo hejh ighoije pjfpiwfoi sdfno.
                 </p>
+                </div>
                 <button className={styles.infoButton}>CLICK ME</button>
             </div>
         </div>
