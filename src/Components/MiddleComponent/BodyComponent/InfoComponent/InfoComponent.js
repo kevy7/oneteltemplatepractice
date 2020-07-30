@@ -13,7 +13,7 @@ const infoComponent = () => {
                     sdnfjlnfldf  fldks fds flkdn flnds fldkn flns flnd fskldn fnflknmdsklf eij rw dsbfuhewi jw guhbw eofhowhf oshf sf jf
                     sfhu eoh owihg orhfgoh wfh j kj giewj uwhfo hejh ighoije pjfpiwfoi sdfno.
                 </p>
-                <button className={styles.infoButton}>Click Me</button>
+                <button className={styles.infoButton}>CLICK ME</button>
             </div>
         </div>
     )

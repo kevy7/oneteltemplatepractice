@@ -32,6 +32,11 @@
     width: 120px;
     height: 40px;
     margin-top: 20px;
+    font-size: 15px;
+    border: 2px white solid;
+    background-color: black;
+    color: white;
+    font-weight: 600;
 }
 
 .infoParagraph {
