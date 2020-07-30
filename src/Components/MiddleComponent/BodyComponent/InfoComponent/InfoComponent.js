@@ -8,6 +8,7 @@ const infoComponent = () => {
             <div className={styles.infoDescription}>
                 <h1 className={styles.title}>Title Here</h1>
                 <p>This is a random paragraph. sdngkjsdn d fdsnfklds fnds lfndsf lsd flsdknf dslknf ldsn flds fds fn lkn fsdlnf sdkn f</p>
+                <button>Click Me</button>
             </div>
         </div>
     )
