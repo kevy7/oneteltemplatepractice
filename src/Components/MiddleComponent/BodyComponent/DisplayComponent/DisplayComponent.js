@@ -5,7 +5,7 @@ import DisplayInfoComp from './DisplayInfoComp/DisplayInfoComp';
 const DisplayComponent = () => {
     return (
         <div className={styles.displayComponent}>
-            <displayComponent />
+            <DisplayInfoComp />
             
         </div>
     )
