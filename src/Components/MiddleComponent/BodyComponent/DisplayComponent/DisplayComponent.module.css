@@ -1,7 +1,8 @@
 .displayComponent {
-    height: 400px;
+    height: 500px;
     background: rgb(37, 37, 38);
     margin-left: 15%;
     margin-right: 15%;
+    margin-bottom: 50px;
     display: flex;
 }
