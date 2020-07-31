@@ -6,7 +6,6 @@ const DisplayComponent = () => {
     return (
         <div className={styles.displayComponent}>
             
-            <div></div>
         </div>
     )
 }
