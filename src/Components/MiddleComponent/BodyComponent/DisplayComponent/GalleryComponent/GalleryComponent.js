@@ -8,7 +8,9 @@ const GalleryComponent = () => {
         <div className={styles.galleryComponent}>
             <Container>
                 <Row>
-                    <Col xs={6} sm={6} md={4}>1 of 2</Col>
+                    <Col xs={6} sm={6} md={4}>
+                        <img src="https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Italian Trulli" />
+                    </Col>
                     <Col xs={6} sm={6} md={4}>2 of 2</Col>
                     <Col xs={6} sm={6} md={4}>2 of 2</Col>
 
