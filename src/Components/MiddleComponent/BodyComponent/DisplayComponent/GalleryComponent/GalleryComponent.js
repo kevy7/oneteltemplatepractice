@@ -8,9 +8,9 @@ const GalleryComponent = () => {
         <div className={styles.galleryComponent}>
             <Container>
                 <Row>
-                    <Col>1 of 2</Col>
-                    <Col>2 of 2</Col>
-                    <Col>2 of 2</Col>
+                    <Col xs={6} sm={6} md={4}>1 of 2</Col>
+                    <Col xs={6} sm={6} md={4}>2 of 2</Col>
+                    <Col xs={6} sm={6} md={4}>2 of 2</Col>
                 </Row>
                 <Row>
                     <Col>1 of 3</Col>
