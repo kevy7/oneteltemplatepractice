@@ -11,12 +11,11 @@ const GalleryComponent = () => {
                     <Col xs={6} sm={6} md={4}>1 of 2</Col>
                     <Col xs={6} sm={6} md={4}>2 of 2</Col>
                     <Col xs={6} sm={6} md={4}>2 of 2</Col>
-                </Row>
-                <Row>
-                    <Col>1 of 3</Col>
-                    <Col>2 of 3</Col>
-                    <Col>3 of 3</Col>
-                    <Col>3 of 3</Col>
+
+                    <Col xs={6} sm={6} md={3}>1 of 3</Col>
+                    <Col xs={6} sm={6} md={3}>2 of 3</Col>
+                    <Col xs={6} sm={6} md={3}>3 of 3</Col>
+                    <Col xs={12} sm={6} md={3}>3 of 3</Col>
                 </Row>
         </Container>
         </div>
