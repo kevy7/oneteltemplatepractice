@@ -4,3 +4,10 @@
     flex-direction: column;
     align-items: center;
 }
+
+.displayParagraph {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 12px;
+    text-align: center;
+}
