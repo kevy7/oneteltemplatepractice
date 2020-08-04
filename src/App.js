@@ -2,6 +2,7 @@ import React from 'react';
 import Container from './Components/Container/Container';
 import TopComponent from './Components/Container/TopComponent/TopComponent';
 import MiddleComponent from './Components/MiddleComponent/MiddleComponent';
+import BottomComponent from './Components/BottomComponent/BottomComponent';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Container />
       <TopComponent />
       <MiddleComponent />
+      <BottomComponent />
     </div>
   );
 }
