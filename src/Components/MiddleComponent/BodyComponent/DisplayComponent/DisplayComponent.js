@@ -8,6 +8,10 @@ const DisplayComponent = () => {
         <div className={styles.displayComponent}>
             <DisplayInfoComp />
             <GalleryComponent />
+            <div className={styles.buttonWrapper}>
+                <button className={styles.displayButton}>Click Me</button>
+            </div>
+            {/* <button className={styles.displayButton}>Click Me</button> */}
         </div>
     )
 }
