@@ -6,7 +6,7 @@ const GalleryComponent = () => {
 
     return (
         <div className={styles.galleryComponent}>
-            <Container /* style={{ padding: '0px' }} */>
+            <Container style={{ maxWidth: '2000px' }} >
                 <Row>
                     <Col xs={6} sm={6} md={4} style={{ padding: '0px' }}>
                         <img className={styles.image} src="https://images.unsplash.com/photo-1593642532871-8b12e02d091c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" />
