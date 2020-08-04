@@ -1,6 +1,6 @@
 .displayComponent {
-    height: 800px;
-    background: rgb(37, 37, 38);
+    /* background: rgb(37, 37, 38); */
+    background: black;
     margin-left: 15%;
     margin-right: 15%;
     margin-bottom: 50px;

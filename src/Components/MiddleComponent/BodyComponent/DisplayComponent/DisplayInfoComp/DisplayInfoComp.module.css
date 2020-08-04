@@ -12,7 +12,8 @@
 .displayParagraph {
     margin-left: 20%;
     margin-right: 20%;
-    font-size: 12px;
+    font-size: 13px;
     text-align: center;
     color: rgb(102, 105, 103);
+    margin-bottom: 50px;
 }
