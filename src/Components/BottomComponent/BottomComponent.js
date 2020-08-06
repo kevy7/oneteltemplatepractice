@@ -15,7 +15,7 @@ const BottomComponent = () => {
             </div>
             <div>
                 <h2>Email Us</h2>
-                <p>dksngfod ns fnkldsnf lsdnf aldf lsn flnf lsnd fksdn nsd lfds.</p>
+                <p>dksngfod ns fnkldsnf lsdnf aldf lsn flnf lsnd fksdn nsd lfds dfhdf sdfjkdsjg fkasdlfk.</p>
                 <input type="text" id="email" name="email" placeholder="Email"/>
                 <div>
                     <button className={Styles.bottomCompButton}>Enter</button>
