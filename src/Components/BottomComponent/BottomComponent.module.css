@@ -1,5 +1,7 @@
 .bottomComponent {
     background: gray;
+    display: flex;
+    flex-direction: row;
 }
 
 .linksElement {
