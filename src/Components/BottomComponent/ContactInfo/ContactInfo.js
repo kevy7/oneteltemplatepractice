@@ -3,7 +3,7 @@ import Styles from './ContactInfo.module.css';
 
 const ContactInfo = () => {
     return (
-        <div>
+        <div className={Styles.contactInfo}>
             <p>sfgnjf gnfl ngsn fdsn fldsnf ldks fldk nknds lfnd fd fkdn sfn dslkfn dslf ndls fns ksdfknf.</p>
             <p>123-456-7890</p>
             <p>FakeEmail@Email.com</p>

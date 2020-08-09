@@ -10,6 +10,10 @@
     padding-bottom: 2%;
 }
 
+.bottomComponent > div {
+   
+}
+
 .linksElement {
     color: white;
 }
