@@ -5,7 +5,7 @@
     justify-content: center;
     padding-left: 15%;
     padding-right: 15%;
-    align-items: center;
+    align-items: flex-start;
     padding-top: 2%;
     padding-bottom: 2%;
 }
@@ -16,10 +16,17 @@
 
 .linksElement {
     color: white;
+    width: 30%;
+    padding-left: 5%;
+    font-size: 14px;
 }
 
 .linksElement > p {
     margin-bottom: 5px;
+}
+
+.emailComponent {
+    width: 30%;
 }
 
 .bottomCompButton {

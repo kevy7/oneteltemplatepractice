@@ -7,14 +7,14 @@ const BottomComponent = () => {
         <div className={Styles.bottomComponent}>
             <ContactInfo />
             <div className={Styles.linksElement}>
-                <h2>See Links</h2>
+                <h3>See Links</h3>
                 <p>Link 1</p>
                 <p>Link 2</p>
                 <p>Link 3</p>
                 <p>Link 4</p>
             </div>
-            <div>
-                <h2>Email Us</h2>
+            <div className={Styles.emailComponent}>
+                <h3>Email Us</h3>
                 <p>dksngfod ns fnkldsnf lsdnf aldf lsn flnf lsnd fksdn nsd lfds dfhdf sdfjkdsjg fkasdlfk.</p>
                 <input type="text" id="email" name="email" placeholder="Email"/>
                 <div>
