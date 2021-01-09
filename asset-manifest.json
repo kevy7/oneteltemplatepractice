@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oneteltemplatepractice/static/css/main.a72ff930.chunk.css",
+    "main.js": "/oneteltemplatepractice/static/js/main.0b15134b.chunk.js",
+    "main.js.map": "/oneteltemplatepractice/static/js/main.0b15134b.chunk.js.map",
+    "runtime-main.js": "/oneteltemplatepractice/static/js/runtime-main.a8bc40d4.js",
+    "runtime-main.js.map": "/oneteltemplatepractice/static/js/runtime-main.a8bc40d4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/oneteltemplatepractice/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.612a960c.chunk.js": "/oneteltemplatepractice/static/js/2.612a960c.chunk.js",
+    "static/js/2.612a960c.chunk.js.map": "/oneteltemplatepractice/static/js/2.612a960c.chunk.js.map",
+    "index.html": "/oneteltemplatepractice/index.html",
+    "precache-manifest.8082996c6f11b8b7b137bafef81ef37b.js": "/oneteltemplatepractice/precache-manifest.8082996c6f11b8b7b137bafef81ef37b.js",
+    "service-worker.js": "/oneteltemplatepractice/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/oneteltemplatepractice/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.a72ff930.chunk.css.map": "/oneteltemplatepractice/static/css/main.a72ff930.chunk.css.map",
+    "static/js/2.612a960c.chunk.js.LICENSE.txt": "/oneteltemplatepractice/static/js/2.612a960c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8bc40d4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.612a960c.chunk.js",
+    "static/css/main.a72ff930.chunk.css",
+    "static/js/main.0b15134b.chunk.js"
+  ]
+}
