@@ -7,7 +7,7 @@ const BottomComponent = () => {
         <div className={Styles.bottomComponent}>
             <ContactInfo />
             <div className={Styles.linksElement}>
-                <h3>See Links</h3>
+                <h3>See Links Below</h3>
                 <p>Link 1</p>
                 <p>Link 2</p>
                 <p>Link 3</p>
